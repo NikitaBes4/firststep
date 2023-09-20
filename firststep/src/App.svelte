@@ -30,7 +30,7 @@
 
 <style>
   .logo {
-    height: 20em;
+    height: 10em;
     padding: 2em;
     will-change: filter;
     transition: filter 300ms;
