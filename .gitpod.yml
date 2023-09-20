@@ -2,6 +2,7 @@
 tasks:
   - name: Script Task
     init: |
+        cd ..
         cd firststep/firststep/
         echo 'init script' 
         npm install # echo 'init script' # runs during prebuild => https://www.gitpod.io/docs/configure/projects/prebuilds
